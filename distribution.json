@@ -12,7 +12,7 @@
       "name": "카토리",
       "description": "KatoRi Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/serverIMG.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "katokato.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -603,6 +603,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6659,
+            "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "resource.zip",
           "name": "resource.zip",
           "type": "File",
@@ -611,6 +621,16 @@
             "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/files/resourcepacks/resource.zip",
             "MD5": "b2d5e5819c0df10c91fb295c7d08801d",
             "path": "resourcepacks/resource.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 152,
+            "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
