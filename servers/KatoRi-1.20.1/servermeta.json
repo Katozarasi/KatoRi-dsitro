@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///D:/helios/KatoRi/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "카토리",
+    "description": "KatoRi Running Minecraft 1.20.1 (Forge v47.4.0)",
+    "icon": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/serverIMG.png",
+    "address": "katokato.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+		  "options.txt",
+		  "servers.dat"
+		]
+	}
+  ]
+}
