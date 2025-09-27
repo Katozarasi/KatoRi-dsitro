@@ -12,8 +12,8 @@
       "name": "카토리",
       "description": "KatoRi Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/serverIMG.png",
-      "version": "1.0.1",
-      "address": "katokato.kro.kr",
+      "version": "1.0.2",
+      "address": "25.8.24.128",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -443,16 +443,6 @@
           }
         },
         {
-          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.1.4@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3565266,
-            "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-2.1.4.jar",
-            "MD5": "3d720853815f7ed3c77e6bdab1e9e250"
-          }
-        },
-        {
           "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
           "name": "CaramelChat",
           "type": "ForgeMod",
@@ -490,16 +480,6 @@
             "size": 123034,
             "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
-          }
-        },
-        {
-          "id": "immersive_paintings:immersive_paintings:0.6.7+1.20.1@jar",
-          "name": "Immersive Paintings",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4841253,
-            "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
-            "MD5": "e010b70ceecf34f91f223b8981f50f40"
           }
         },
         {
@@ -580,16 +560,6 @@
             "size": 443978,
             "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
             "MD5": "75807590ae2648ecdeb855705868ce59"
-          }
-        },
-        {
-          "id": "net.xalcon:torchmaster:20.1.9@jar",
-          "name": "Torchmaster",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 119348,
-            "url": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/servers/KatoRi-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
-            "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
           }
         },
         {
