@@ -12,8 +12,8 @@
       "name": "카토리",
       "description": "KatoRi Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://raw.githubusercontent.com/Katozarasi/KatoRi-dsitro/main/serverIMG.png",
-      "version": "1.0.2",
-      "address": "25.8.24.128",
+      "version": "1.0.3",
+      "address": "1.224.237.11",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
